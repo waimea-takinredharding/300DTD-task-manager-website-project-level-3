@@ -1,6 +1,6 @@
-# PROJECT NAME HERE
+# Task Manager System
 
-by YOUR NAME HERE
+by Torrian Kinred-harding
 
 
 ---
@@ -20,7 +20,8 @@ Replace this text with your project description and list the key features below
 
 ## Project Links
 
-- [GitHub repo for the project](https://...)
+- [GitHub repo for the project](https://github.com/waimea-takinredharding/300DTD-task-manager-website-project-level-3)
+- [Project documentation](https://waimea-takinredharding.github.io/300DTD-task-manager-website-project-level-3/)
 - [Live web app](https://...)
 
 

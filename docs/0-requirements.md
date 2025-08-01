@@ -8,6 +8,7 @@ Replace this text with a clearly stated problem or need that exists that your pr
 ## End-User Requirements
 
 Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
+The end-users will be my family. They have some level of tech experience
 
 
 ## Proposed Solution
