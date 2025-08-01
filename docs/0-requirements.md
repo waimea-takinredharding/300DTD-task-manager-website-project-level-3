@@ -20,13 +20,13 @@ Replace this text with a brief statement about the system that you intend to cre
 
 # Relevant Implications
 
-## NAME OF IMPLICATION 1
+## End-users
 
-Replace this text with a clear explanation of what the implication means.
+The end-user implications of a digital technology or digital outcome (e.g. a website) are connected to the specific needs of the end-user(s).
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+This project is focused on a small set of specific end users, so focusing on the specific needs of these end users is important.
 
 ### Impact / Considerations
 
@@ -34,13 +34,13 @@ Replace this text with an explanation of what you will need to consider moving f
 
 
 
-## NAME OF IMPLICATION 2
+## Functionality
 
-Replace this text with a clear explanation of what the implication means.
+The functionality implications of a digital technology or digital outcome (e.g. a website) relate to how well it works for the end-user, in terms of meeting its intended purpose.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+Functionality is relevant to this particular project because if the website is not functional, then the most basic point of the project is not being fulfilled, and is therefore useless.
 
 ### Impact / Considerations
 
@@ -48,13 +48,13 @@ Replace this text with an explanation of what you will need to consider moving f
 
 
 
-## NAME OF IMPLICATION 3
+## Usability
 
-Replace this text with a clear explanation of what the implication means.
+The usability implications of a digital technology or digital outcome (e.g. a website) relate to how easy it is to use for the end-user, without the need for help or guidance.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+Usability is relevant to this particular project because if the website is not usable, then it will be frustrating or inconvenient to use, which will go against the goal of being more convenient and usable than paper lists.
 
 ### Impact / Considerations
 
@@ -62,13 +62,13 @@ Replace this text with an explanation of what you will need to consider moving f
 
 
 
-## NAME OF IMPLICATION 4
+## Aesthetics
 
-Replace this text with a clear explanation of what the implication means.
+The aesthetic implications of a digital technology or digital outcome (e.g. a website) relate to how it looks in terms of design.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+Aesthetics are important to this project because it is focused on a small group of end users who will be seeing and using it consistently, so nailing down the design to be appealing is highly important.
 
 ### Impact / Considerations
 
@@ -76,13 +76,13 @@ Replace this text with an explanation of what you will need to consider moving f
 
 
 
-## NAME OF IMPLICATION 5
+## Accessibility
 
-Replace this text with a clear explanation of what the implication means.
+The accessibility implications of a digital technology or digital outcome (e.g. a website) involve ensuring it is available to, and can be used by, all end-users, regardless of their abilities.
 
 ### Relevance to the System
 
-Replace this text with an explanation of why the implication is relevant to this particular project.
+Accessibility is important for this project because it is likely to be used in public settings, meaning things like glare and lighting issues in general could make it harder to see the contents of the project
 
 ### Impact / Considerations
 
