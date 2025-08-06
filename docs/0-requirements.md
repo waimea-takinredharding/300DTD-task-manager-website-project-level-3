@@ -2,8 +2,9 @@
 
 ## Identified Problem or Need
 
-Replace this text with a clearly stated problem or need that exists that your project will attempt to solve / fulfil.
+My family (end-users) often end up using paper lists to keep track of tasks and needed purchases. The paper can be misplaced, or people can forget to put certain items on the list, meaning things can be forgotten.
 
+There is a need for a simple system that lets users put in tasks, select people to do them, and then mark them as complete.
 
 ## End-User Requirements
 
