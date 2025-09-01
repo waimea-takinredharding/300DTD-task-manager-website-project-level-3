@@ -1,6 +1,6 @@
 #===========================================================
-# YOUR PROJECT TITLE HERE
-# YOUR NAME HERE
+# Task Manager Website Project
+# Torrian Kinred-Harding
 #-----------------------------------------------------------
 # BRIEF DESCRIPTION OF YOUR PROJECT HERE
 #===========================================================
