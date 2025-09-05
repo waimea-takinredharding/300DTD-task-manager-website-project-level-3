@@ -2,7 +2,9 @@
 # Task Manager Website Project
 # Torrian Kinred-Harding
 #-----------------------------------------------------------
-# BRIEF DESCRIPTION OF YOUR PROJECT HERE
+# This project is aimed for use by my family. It will allow anyone to make a task
+# and assign it to themself or others. When people log in, they can see any undone
+# tasks that they are assigned to, and mark them off. 
 #===========================================================
 
 
